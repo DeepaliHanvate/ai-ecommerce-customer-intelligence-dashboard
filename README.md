@@ -64,7 +64,7 @@ E-commerce businesses generate large volumes of customer data, but struggle to e
 ## 📊 Dataset Source
 
 Dataset taken from Kaggle:  
-https://www.kaggle.com/datasets
+https://www.kaggle.com/datasets/danielarivasu/online-retail-sales
 
 - Cleaned dataset available as `cleaned_ecommerce_data.csv`
 - Can be opened in Excel or used for analysis
