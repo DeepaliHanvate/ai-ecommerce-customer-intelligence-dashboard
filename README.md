@@ -74,11 +74,11 @@ https://www.kaggle.com/datasets
 ---
 
 ## 🚀 How to Use
-1. Download project files  
-2. Open `.pbix` in Power BI  
-3. Explore dashboard  
+1. Download the repository files  
+2. Open the `.pbix` file using Power BI Desktop  
+3. Interact with the dashboard to explore insights  
 
 ---
 
 ## 👩‍💻 Author
-Deepali Hanvate
+Deepali P Hanvate
