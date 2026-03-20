@@ -5,12 +5,17 @@
 🚀 End-to-End Data Analytics Project using Python & Power BI
 
 ---
+##  Overview
+This is an end-to-end data analytics project covering data cleaning, analysis, and visualization.
 
 ## 📌 Problem Statement
-E-commerce businesses generate large amounts of customer data, but struggle to extract meaningful insights for decision-making.
-
+E-commerce businesses generate large volumes of customer data, but struggle to extract meaningful insights for improving sales and customer retention.
 ---
-
+## 💡 Business Impact
+- Helps identify high-value customers
+- Supports targeted marketing strategies
+- Improves decision-making using data insights
+ 
 ## 🎯 Objective
 - Analyze customer purchasing behavior
 - Identify high-value customers
