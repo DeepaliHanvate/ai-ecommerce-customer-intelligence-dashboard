@@ -33,8 +33,8 @@ This project analyzes e-commerce customer data to generate actionable insights a
 
 ## 📊 Dashboard Preview
 
-![Sales Overview](dashboard1.png)
-![Customer Insights](dashboard2.png)
+![Dashboard](dashboard1.png.png)
+![Dashboard](dashboard2.png.png)
 
 ---
 
