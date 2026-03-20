@@ -61,12 +61,15 @@ E-commerce businesses generate large volumes of customer data, but struggle to e
 - Supports data-driven decision making
 
 ---
-
 ## 📊 Dataset Source
-Dataset taken from Kaggle  
-(https://www.kaggle.com/datasets)
 
-⚠️ Note: Dataset cleaned using Python.
+Dataset taken from Kaggle:  
+https://www.kaggle.com/datasets
+
+- Cleaned dataset available as `cleaned_ecommerce_data.csv`
+- Can be opened in Excel or used for analysis
+
+⚠️ Note: Dataset cleaned and preprocessed using Python.
 
 ---
 
