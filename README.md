@@ -8,8 +8,6 @@
 ##  Overview
 This project analyzes e-commerce data to generate business insights using Power BI. The dashboard helps understand sales performance, customer behavior, and product trends.
 
-## 📌 Problem Statement
-E-commerce businesses generate large volumes of customer data, but struggle to extract meaningful insights for improving sales and customer retention.
 ---
 ## 💡 Impact Statement
 This project simulates how e-commerce companies use AI-driven customer segmentation to increase revenue and retention.
