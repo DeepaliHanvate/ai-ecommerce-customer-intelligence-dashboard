@@ -6,16 +6,12 @@
 
 ---
 ##  Overview
-This is an end-to-end data analytics project covering data cleaning, analysis, and visualization.
+This project analyzes e-commerce data to generate business insights using Power BI. The dashboard helps understand sales performance, customer behavior, and product trends.
 
 ## 📌 Problem Statement
 E-commerce businesses generate large volumes of customer data, but struggle to extract meaningful insights for improving sales and customer retention.
 ---
-## 💡 Business Impact
-- Helps identify high-value customers
-- Supports targeted marketing strategies
-- Improves decision-making using data insights
- 
+
 ## 🎯 Objective
 - Analyze customer purchasing behavior
 - Identify high-value customers
@@ -26,6 +22,8 @@ E-commerce businesses generate large volumes of customer data, but struggle to e
 ## 🛠️ Tools Used
 - Power BI (Dashboard)
 - Python (Data Cleaning - Pandas, NumPy)
+- Data Visualization
+- Business Intelligence
 - Excel
 
 ---
@@ -49,9 +47,15 @@ E-commerce businesses generate large volumes of customer data, but struggle to e
 ---
 
 ## 🔍 Key Insights
-- Top 20% customers contribute majority of revenue
-- Repeat customers have higher Average Order Value
-- Sales show strong seasonal trends
+- Total Revenue: 8.8M+
+
+- Total Orders: 18K+
+
+- Identified top customers and best-selling products
+
+- Analyzed sales trends over time
+
+- Country-wise revenue analysis
 
 ---
 
@@ -59,6 +63,7 @@ E-commerce businesses generate large volumes of customer data, but struggle to e
 - Helps identify high-value customers
 - Improves targeted marketing strategies
 - Supports data-driven decision making
+- This dashboard helps businesses make data-driven decisions by identifying key trends, customer behavior, and high-performing products.
 
 ---
 ## 📊 Dataset Source
